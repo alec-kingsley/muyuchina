@@ -1,0 +1,19 @@
+body {
+  font-family: Trebuchet MS, sans-serif;
+  text-align: center;
+  font-size: 35px;
+}
+
+.title {
+  margin-top: 50px;
+}
+
+.dropdowns {
+  margin-top: 20px;
+}
+
+.dropdown {
+  margin: 10px;
+  font-size: 32px;
+  border-radius: 10px;
+}
